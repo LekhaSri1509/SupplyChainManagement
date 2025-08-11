@@ -8,6 +8,7 @@ The aim of this project is to analyze and optimize supply chain operations using
 finding the top supplier, calculating shortest distances, identifying minimum and maximum values for 
 attributes, sending email alerts for low product availability, and visualizing supply chain data through 
 interactive charts and graphs. 
+
 CONCEPT: 
 
  Divide and Conquer: 
