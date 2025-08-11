@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="transport" attr.type="string"/>
+<key id="d1" for="edge" attr.name="route" attr.type="string"/>
+<key id="d0" for="edge" attr.name="cost" attr.type="double"/>
+<graph edgedefault="directed"><node id="Supplier 3"/>
+<node id="Mumbai"/>
+<node id="Supplier 1"/>
+<node id="Supplier 5"/>
+<node id="Kolkata"/>
+<node id="Delhi"/>
+<node id="Supplier 4"/>
+<node id="Bangalore"/>
+<node id="Supplier 2"/>
+<node id="Chennai"/>
+<edge source="Supplier 3" target="Mumbai">
+  <data key="d0">188.74214114905695</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 3" target="Kolkata">
+  <data key="d0">183.9329680435944</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Sea</data>
+</edge>
+<edge source="Supplier 3" target="Chennai">
+  <data key="d0">879.3592177349243</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Sea</data>
+</edge>
+<edge source="Supplier 3" target="Delhi">
+  <data key="d0">276.77833594679885</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 3" target="Bangalore">
+  <data key="d0">990.0784725058112</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 1" target="Mumbai">
+  <data key="d0">264.2548898358665</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 1" target="Delhi">
+  <data key="d0">771.2250846811575</data>
+  <data key="d1">Route C</data>
+  <data key="d2">Air</data>
+</edge>
+<edge source="Supplier 1" target="Kolkata">
+  <data key="d0">517.4999739290605</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 1" target="Bangalore">
+  <data key="d0">682.9710182260933</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 1" target="Chennai">
+  <data key="d0">873.1296480176514</data>
+  <data key="d1">Route C</data>
+  <data key="d2">Air</data>
+</edge>
+<edge source="Supplier 5" target="Kolkata">
+  <data key="d0">393.8433485784279</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 5" target="Bangalore">
+  <data key="d0">694.9823175794459</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 5" target="Chennai">
+  <data key="d0">882.1988635470415</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 5" target="Mumbai">
+  <data key="d0">323.59220343132216</data>
+  <data key="d1">Route C</data>
+  <data key="d2">Sea</data>
+</edge>
+<edge source="Supplier 5" target="Delhi">
+  <data key="d0">336.8901685199779</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 4" target="Bangalore">
+  <data key="d0">802.0563118175586</data>
+  <data key="d1">Route C</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 4" target="Mumbai">
+  <data key="d0">540.1324228679678</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Road</data>
+</edge>
+<edge source="Supplier 4" target="Kolkata">
+  <data key="d0">207.6632062085756</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Air</data>
+</edge>
+<edge source="Supplier 4" target="Chennai">
+  <data key="d0">823.5238458881558</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Air</data>
+</edge>
+<edge source="Supplier 4" target="Delhi">
+  <data key="d0">996.7783149506238</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 2" target="Chennai">
+  <data key="d0">210.74300896424612</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 2" target="Kolkata">
+  <data key="d0">653.6729945520332</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Air</data>
+</edge>
+<edge source="Supplier 2" target="Bangalore">
+  <data key="d0">997.4134501331946</data>
+  <data key="d1">Route A</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 2" target="Delhi">
+  <data key="d0">846.6652569866948</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+<edge source="Supplier 2" target="Mumbai">
+  <data key="d0">230.0927825367629</data>
+  <data key="d1">Route B</data>
+  <data key="d2">Rail</data>
+</edge>
+</graph></graphml>
